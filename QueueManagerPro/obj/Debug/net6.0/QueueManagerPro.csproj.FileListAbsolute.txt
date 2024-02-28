@@ -1,0 +1,14 @@
+C:\Users\Yoga 260\source\repos\QueueManagerPro\QueueManagerPro\bin\Debug\net6.0\QueueManagerPro.exe
+C:\Users\Yoga 260\source\repos\QueueManagerPro\QueueManagerPro\bin\Debug\net6.0\QueueManagerPro.deps.json
+C:\Users\Yoga 260\source\repos\QueueManagerPro\QueueManagerPro\bin\Debug\net6.0\QueueManagerPro.runtimeconfig.json
+C:\Users\Yoga 260\source\repos\QueueManagerPro\QueueManagerPro\bin\Debug\net6.0\QueueManagerPro.dll
+C:\Users\Yoga 260\source\repos\QueueManagerPro\QueueManagerPro\bin\Debug\net6.0\QueueManagerPro.pdb
+C:\Users\Yoga 260\source\repos\QueueManagerPro\QueueManagerPro\obj\Debug\net6.0\QueueManagerPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoga 260\source\repos\QueueManagerPro\QueueManagerPro\obj\Debug\net6.0\QueueManagerPro.AssemblyInfoInputs.cache
+C:\Users\Yoga 260\source\repos\QueueManagerPro\QueueManagerPro\obj\Debug\net6.0\QueueManagerPro.AssemblyInfo.cs
+C:\Users\Yoga 260\source\repos\QueueManagerPro\QueueManagerPro\obj\Debug\net6.0\QueueManagerPro.csproj.CoreCompileInputs.cache
+C:\Users\Yoga 260\source\repos\QueueManagerPro\QueueManagerPro\obj\Debug\net6.0\QueueManagerPro.dll
+C:\Users\Yoga 260\source\repos\QueueManagerPro\QueueManagerPro\obj\Debug\net6.0\refint\QueueManagerPro.dll
+C:\Users\Yoga 260\source\repos\QueueManagerPro\QueueManagerPro\obj\Debug\net6.0\QueueManagerPro.pdb
+C:\Users\Yoga 260\source\repos\QueueManagerPro\QueueManagerPro\obj\Debug\net6.0\QueueManagerPro.genruntimeconfig.cache
+C:\Users\Yoga 260\source\repos\QueueManagerPro\QueueManagerPro\obj\Debug\net6.0\ref\QueueManagerPro.dll
